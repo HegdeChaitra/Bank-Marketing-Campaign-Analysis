@@ -1,3 +1,5 @@
+Project report is available, have a look.
+
 Instructions to run the code:
 1. Make sure the data file ("bank-additional-full.csv") is in the same directory as the ipython notebook or 
 edit the ipython notebook accordingly.
