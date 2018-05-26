@@ -9,8 +9,10 @@ Make sure all the dependencies used in the notebook are installed in the local m
 4. Notebook is commented adequately to give the rational, inferences of the executed code.
 
 ## Quick result
+### Feature Importance
+![Alt text](s2.png?raw=true "Title")
 
+### Recommendation to Marketing Team
 ![Alt text](s1.png?raw=true "Title")
 
-![Alt text](s2.png?raw=true "Title")
 
